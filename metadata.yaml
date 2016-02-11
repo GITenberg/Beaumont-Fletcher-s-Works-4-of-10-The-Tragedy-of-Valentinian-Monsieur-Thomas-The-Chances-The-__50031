@@ -1,0 +1,34 @@
+_repo: Beaumont-Fletcher-s-Works-4-of-10-The-Tragedy-of-Valentinian-Monsieur-Thomas-The-Chances-The-__50031
+creator:
+  authors:
+  - agent_name: Fletcher, John
+    aliases:
+    - Flecher, John
+    - Fletcher, Iohn
+    birthdate: 1579
+    deathdate: 1625
+    gutenberg_agent_id: '4606'
+    url: http://www.gutenberg.org/2009/agents/4606
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
+  - agent_name: Beaumont, Francis
+    alias: Beamont, Francis
+    birthdate: 1584
+    deathdate: 1616
+    gutenberg_agent_id: '3603'
+    url: http://www.gutenberg.org/2009/agents/3603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
+description: ''
+gutenberg_issued: '2015-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Beaumont & Fletcher''s Works (4 of 10)
+
+  The Tragedy of Valentinian; Monsieur Thomas; The Chances;
+
+  The Bloody Brother; The Wild-Goose Chase'
+url: http://www.gutenberg.org/ebooks/50031
