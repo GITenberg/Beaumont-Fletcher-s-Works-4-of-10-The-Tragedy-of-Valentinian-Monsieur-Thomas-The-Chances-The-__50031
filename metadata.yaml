@@ -1,4 +1,8 @@
 _repo: Beaumont-Fletcher-s-Works-4-of-10-The-Tragedy-of-Valentinian-Monsieur-Thomas-The-Chances-The-__50031
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50031-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fletcher, John
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3603
     wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50031#Beaumont-Fletcher-s-Works-4-of-10-The-Tragedy-of-Valentinian-Monsieur-Thomas-The-Chances-The-_
 gutenberg_issued: '2015-09-21'
 gutenberg_type: Text
 identifiers:
